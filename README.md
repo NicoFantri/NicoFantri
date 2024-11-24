@@ -1,38 +1,45 @@
 <h1 align="center">Hi there! 👋 I'm Nico Fantri Mayharis</h1>  
 <p align="center">  
-🌟 Mobile Developer | 🌐 Web Enthusiast | 🎮 Game Designer | 💡 IoT Hobbyist  
+✨ Full-Stack Developer | 💻 Python & Java Enthusiast | 🌐 Web Innovator  
 </p>  
 
 ---
 
-### 📝 About Me  
-- 🌱 **Currently Learning**: Flutter, Laravel, ESP32, and Firebase  
-- 👀 **Passionate About**: Building stunning UIs, creating immersive games, and exploring IoT innovations  
-- 💞️ **Open to Collaborate**: On creative and impactful projects  
+### 👨‍💻 About Me  
+- 🌱 **Currently Learning**: Advanced Python, Spring Boot, Flutter, and REST APIs  
+- 👀 **Passionate About**: Building efficient backends, creating elegant frontends, and automating workflows  
+- 💞️ **Open to Collaborate**: On full-stack web applications or scalable Python projects  
 - 📫 **How to Reach Me**: [nico@example.com](mailto:nico@example.com)  
-- ⚡ **Fun Fact**: I turn coffee and code into magical projects ☕✨  
+- ⚡ **Fun Fact**: I believe every problem has a clean, creative, and efficient solution 🎯  
 
 ---
 
-### 🚀 Tech Stack  
-#### Languages & Frameworks  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+### 🔧 Tech Stack  
+
+#### 🛠 Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 
-#### Tools & Platforms  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
+#### 🛠 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 ---
 
-### 🌟 What I'm Working On  
-- 🎵 **A Music App**: Stunning UI with a black and purple theme, Spotify-inspired design  
-- 🎮 **Game Project**: *Meaning of Life* - an FPS zombie survival game with a touching storyline  
-- 💡 **IoT Fun**: Controlling LEDs using ESP32 on a breadboard  
+### 🚀 What I'm Working On  
+- 🌐 **A Modern Task Management Web App**:  
+  > Featuring an intuitive UI, real-time data sync with Firebase, and efficient CRUD functionalities.  
+- 🐍 **Python Automation Scripts**:  
+  > Simplifying workflows through robust data processing and API integration.  
+- ☕ **Java Backends**:  
+  > Developing scalable and secure REST APIs with Spring Boot and PostgreSQL.
 
 ---
 
