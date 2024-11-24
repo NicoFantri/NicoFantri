@@ -40,8 +40,7 @@ Hello there! I'm a passionate developer with a love for crafting beautiful user 
 - 🌐 **Web Development**: Crafting visually appealing and functional web applications with Laravel and Firebase  
 
 ---
-
-## 🏆 Achievements (A)  
+ 
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=NicoFantri&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="450"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoFantri&layout=compact&theme=radical" alt="Top Languages" width="400"/>  
