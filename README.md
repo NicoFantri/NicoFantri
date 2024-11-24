@@ -41,10 +41,11 @@ Hello there! I'm a passionate developer with a love for crafting beautiful user 
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 Achievements (A)  
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=NicoFantri&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoFantri&layout=compact&theme=radical" alt="Top Languages" width="400"/>  
+<img src="https://streak-stats.demolab.com?user=NicoFantri&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="450"/>  
 </p>  
 
 ---
