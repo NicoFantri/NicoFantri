@@ -11,7 +11,7 @@ Hello there! I'm a passionate developer with a love for crafting beautiful user 
 - 🌱 **Currently Learning**: Flutter, Laravel, Firebase, ESP32  
 - 👀 **Passionate About**: Creative UI/UX design, scalable web and mobile development, and IoT solutions  
 - 💞️ **Open to Collaborate**: On projects that make a difference  
-- 📫 **How to Reach Me**: [nico@example.com](mailto:nicofantrimayharis@gmail.com)  
+- 📫 **How to Reach Me**: [nicofantrimayharis@gmail.com](mailto:nicofantrimayharis@gmail.com)  
 - ⚡ **Fun Fact**: I believe coffee + code = ✨ magic  
 
 ---
